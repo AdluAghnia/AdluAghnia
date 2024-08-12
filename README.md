@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # 🩷
 <p align="center" width="100%">
-  <img width="100%" src="https://media1.tenor.com/m/qkPV6_DL-NAAAAAd/bocchi-the-rock-bocchi.gif" alt="Boccher">
+  <img width="100%" src="https://c.tenor.com/qkPV6_DL-NAAAAAd/tenor.gif" alt="Boccher">
 </p>
 
 P Maksud?
