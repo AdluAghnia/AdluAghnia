@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
   <img width="100%" src="https://media1.tenor.com/m/qkPV6_DL-NAAAAAd/bocchi-the-rock-bocchi.gif" alt="Boccher">
 </p>
 
-Welcome to my cozy little dorm. There are few things here to check out, but just make sure you've picked up something to drink beforehand from the refrigerator.
+P Maksud?
 
 - 👋 Hi, I’m @AdluAghnia
 - 👀 I’m interested in Nothing lol
