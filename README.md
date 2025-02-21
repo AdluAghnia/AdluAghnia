@@ -8,10 +8,17 @@ You can click the Preview link to take a look at your changes.
   <img width="100%" src="https://c.tenor.com/qkPV6_DL-NAAAAAd/tenor.gif" alt="Boccher">
 </p>
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=azhamdev&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azhamdev&layout=compact&langs_count=8&card_width=320&theme=onedark" />
+</a>
+
 P Maksud?
 
 - 👋 Hi, I’m @AdluAghnia
-- 👀 I’m interested in Nothing lol
+- 👀 I’m interested in Backend and Cloud Computing
 - 🌱 I’m currently learning Anything useful
 
 
